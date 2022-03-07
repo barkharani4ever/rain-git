@@ -4,9 +4,9 @@
 
 * [Production Deployment](https://rain-prod.herokuapp.com/)
 
-[![Development Workflow](https://github.com/kaw393939/docker_flask/actions/workflows/dev.yml/badge.svg)](https://github.com/kaw393939/docker_flask/actions/workflows/dev.yml)
+[![Development Workflow](https://github.com/barkharani4ever/rain-git/actions/workflows/dev.yml/badge.svg)](https://github.com/barkharani4ever/rain-git/actions/workflows/dev.yml)
 
-* [Developmental Deployment](https://kwilliam-dev.herokuapp.com/)
+* [Developmental Deployment](https://rain-devo.herokuapp.com/)
 
 ## Setting up CI/CD
 
